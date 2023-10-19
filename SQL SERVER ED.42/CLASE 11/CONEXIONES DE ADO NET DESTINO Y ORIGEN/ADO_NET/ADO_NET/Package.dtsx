@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="9/29/2023 7:20:16 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ANTHONYCODE"
+  DTS:CreatorName="ANTHONYCODE\antho"
+  DTS:DTSID="{7270242E-BBEA-4094-9C7C-E9ADA7E46793}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5035.3"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{733AE636-E961-4E43-8F4F-6A358F27D621}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ADO_NET", "ADO_NET\ADO_NET.dtproj", "{D67391C2-8424-4AC1-875E-C750D45BD99C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67391C2-8424-4AC1-875E-C750D45BD99C}.Development|Default.ActiveCfg = Development
+		{D67391C2-8424-4AC1-875E-C750D45BD99C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8534BAF-C4B7-44AC-B19E-2E75DA5105B8}
+	EndGlobalSection
+EndGlobal
